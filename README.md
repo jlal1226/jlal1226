@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=RockHub%20&animation=fadeIn)
 
+✋ Hi there!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlal1226&show_icons=true&theme=graywhite)
 <!--
 **jlal1226/jlal1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
