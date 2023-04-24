@@ -6,6 +6,11 @@
 <!--
 **jlal1226/jlal1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jlal1226)](https://solved.ac/jlal1226)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
