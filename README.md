@@ -2,13 +2,13 @@
 
 ✋ Hi there!
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jlal1226)](https://solved.ac/jlal1226)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlal1226&show_icons=true&theme=graywhite)
+
+
+
 <!--
 **jlal1226/jlal1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jlal1226)](https://solved.ac/jlal1226)
-
 
 
 Here are some ideas to get you started:
